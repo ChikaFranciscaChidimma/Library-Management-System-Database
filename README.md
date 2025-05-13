@@ -1,4 +1,4 @@
-![library](https://github.com/user-attachments/assets/701b9d4b-8cc5-4c91-8ade-12b727419b9b)Library Management System
+Library Management System
 A comprehensive MySQL database system designed to manage all aspects of a modern library's operations.
 
 Project Description
