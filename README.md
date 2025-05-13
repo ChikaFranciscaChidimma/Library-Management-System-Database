@@ -92,6 +92,7 @@ Fines are automatically calculated for overdue books
 Book copy status is automatically updated when checked out or returned
 
 License
+Apache-2.0 license
 
 Contact
 chikafranciscachidimma@gmail.com
